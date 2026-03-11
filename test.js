@@ -1,1 +1,1 @@
-console.log("testcode");
+console.log("test trong main");
